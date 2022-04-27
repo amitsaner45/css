@@ -1,2 +1,0 @@
-h1{font-family:arial;}
-p{text-decoration:blink;font-weight:bold}
